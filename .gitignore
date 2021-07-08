@@ -1,0 +1,8 @@
+NormEZ.rb
+*.o
+libmy.a
+generator/generator
+solver/solver
+maze/
+vgcore.*
+.vscode
