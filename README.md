@@ -1,4 +1,4 @@
-# Dante's Star!
+# Dante's Star
 
 Dante's Star is an Epitech first year project and is divided in two parts:
 - Generator
